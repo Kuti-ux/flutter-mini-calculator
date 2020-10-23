@@ -1,6 +1,6 @@
 # Mini_Calculator_App
 
-A new Flutter application with a background slider
+A new Flutter application with a unique background slider
 
 ## Getting Started
 
